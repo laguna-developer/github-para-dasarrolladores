@@ -2,6 +2,6 @@
 
 git para desarrolladores
 
-[Visiata mi Blog] (http://carlossolis.mobi)
+[Visita mi Blog](http://carlossolis.mobi)
 
 
